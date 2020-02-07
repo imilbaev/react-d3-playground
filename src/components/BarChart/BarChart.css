@@ -1,0 +1,12 @@
+rect {
+  fill: #18972d;
+}
+
+.grid path {
+  stroke-width: 0;
+}
+
+.grid .tick line {
+  stroke: #9faaae;
+  stroke-opacity: 0.2;
+}
